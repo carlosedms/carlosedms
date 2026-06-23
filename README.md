@@ -1,11 +1,8 @@
-## Hi there 👋 this is a test.
- ...or is it?
-
 # Hi! My name is Carlos.
 
 I like tearing down things to find out how they work (and hopefully rebuild them back up after!).
 
-I enjoy developing fun and useful projects!!
+I also enjoy developing fun and useful projects.
 
 - 🎓 Currently studying at Rio Grande do Norte's Federal University (UFRN)
 - 💻 Side studying mobile development with Flutter
@@ -56,21 +53,10 @@ I enjoy developing fun and useful projects!!
   </tr>
 </table>
 
+<div>
+
 ![carlosedms's Stats](https://github-readme-stats.vercel.app/api?username=carlosedms&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![carlosedms's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosedms&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-<!--
-**carlosedms/carlosedms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
